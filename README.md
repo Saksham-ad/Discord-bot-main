@@ -32,10 +32,8 @@ Discord Token. Get it from Discord Developers Portal
 Mongo Database URL. Get it from MongoDB
 ClientID for loading slash commands. Discord Developers Portal
 》Installation Guide
- Installing via NPM
-Clone the repo by running
 
-git clone https://github.com/itz-princeyt336/Discord-Bot.git
+
 After cloning Fill all requirement in .env (rename .env.example to .env), then run
 npm install
 To start your bot
